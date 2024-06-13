@@ -35,7 +35,8 @@ This report is designed to help stakeholders in understanding and leveraging e-c
 
 ## Dashboard Screenshot
 
-'Ecommerce Sales.png/'
+![Ecommerce Sales](https://github.com/lut-ful/E-commerce-sales-Report/assets/108027559/5ae1971e-28f2-4cf8-ae7e-4fa932bd946f)
+
 
 ## Getting Started
 
