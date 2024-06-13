@@ -13,9 +13,6 @@ This dashboard provides a comprehensive visual analysis of e-commerce sales data
 - **Payment Mode Quantity**: Analysis of sales volume by payment method.
 - **Top Profit by Subcategory**: Highlights the most profitable product subcategories.
 
-## Data Source
-
-The specific data source used for this report is not mentioned in the provided image.
 
 ## Tools Used
 
