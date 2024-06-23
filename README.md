@@ -44,9 +44,8 @@ To view the dashboard and interact with the data:
 1. Clone the repository.
 2. Open the `.pbix` file in Power BI Desktop or view the dashboard online.
 
+## 📫 Connect
 
-## Acknowledgments
-
-- The dashboard design and implementation were inspired by best practices in data visualization and business intelligence.
-# Connect
-linkedin (https://www.linkedin.com/in/mdlutfulkabir/)
+- Email: lutfulkabir1757@gmail.com
+- LinkedIn: [Md. Lutful Kabir](https://www.linkedin.com/in/mdlutfulkabir/)
+- Portfolio: [Md. Lutful Kabir](https://www.datascienceportfol.io/mdlutfulkabir)
